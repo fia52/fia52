@@ -9,8 +9,11 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 <br/>  
 
-## Snake eating my contrubution graph
-![snake gif](https://github.com/fia52/fia52/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## My Skill Set  
