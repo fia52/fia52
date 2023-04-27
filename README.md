@@ -4,11 +4,7 @@ Hi there! My name is Iliya
 
 I"m a passionate programmer and avid learner. I love to explore new technologies and experiment with different programming languages to build cool projects. I"m a great fan of programming and its impact on human life. This is my Github profile, where you can find some of the projects that I have worked on.
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [froloviliya52@gmail.com](mailto:froloviliya52@gmail.com)
-
-<br/>  
-
+🌍  I'm based in Moscow
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake.svg">
@@ -16,7 +12,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 </picture>
 
 
-## My Skill Set  
+## Some of my skills:  
 <table><tr><td valign="top" width="33%">
 
 
@@ -56,11 +52,7 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 <br/>  
 
 
-
-### Socials
-
-### 🤝 Социальные сети:
-
+## Socials:
   <div id="badges">
     <a href="https://t.me/froloviliya" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -71,6 +63,9 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <a href="https://hh.ru/resume/0d660e28ff0b50ffcd0039ed1f616865676768" target="_blank">
       <img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="40" height="40" alt="hh" />
     </a>
+<!--     <a href="mailto:froloviliya52@gmail.com" target="_blank">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2PFI_97udPl0kjApwZc0xA&ust=1682671666215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCgucnWyf4CFQAAAAAdAAAAABAE" width="40" height="40" alt="hh" />
+    </a> -->
   
   </div>
 
