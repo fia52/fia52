@@ -11,10 +11,10 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fia52/fia52/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
 ## Some of my skills:  
-<table><tr><td valign="top" width="33%">
-
+<table  align="center"><tr><td valign="top" width="33%">
 
 
 ### Frontend  
@@ -63,10 +63,9 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
     <a href="https://hh.ru/resume/0d660e28ff0b50ffcd0039ed1f616865676768" target="_blank">
       <img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="40" height="40" alt="hh" />
     </a>
-<!--     <a href="mailto:froloviliya52@gmail.com" target="_blank">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2PFI_97udPl0kjApwZc0xA&ust=1682671666215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCgucnWyf4CFQAAAAAdAAAAABAE" width="40" height="40" alt="hh" />
-    </a> -->
-  
+    <a href="mailto:froloviliya52@gmail.com">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40">
+    </a>
   </div>
 
 ---
