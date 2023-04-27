@@ -9,6 +9,9 @@ I"m a passionate programmer and avid learner. I love to explore new technologies
 
 <br/>  
 
+## Snake eating my contrubution graph
+![snake gif](https://github.com/fia52/fia52/blob/output/github-contribution-grid-snake.gif)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
